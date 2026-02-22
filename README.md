@@ -1,6 +1,6 @@
-# 📈 Deep Q-Network (DQN) Stock Trading Platform
+# 📈 Deep Q-Network (DQN) Stock Trading Strategy
 
-A quantitative trading research platform implementing **Deep Reinforcement Learning (DQN)** for stock market strategy development, backtesting, and interactive analysis.
+A quantitative trading strategy implementing **Deep Reinforcement Learning (DQN)** for stock market strategy development, backtesting, and interactive analysis.
 
 Built with:
 
@@ -60,3 +60,4 @@ dqn-stock-trading/
 │
 └── frontend/
     └── streamlit_app.py     # Interactive dashboard
+
